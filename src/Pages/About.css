@@ -1,0 +1,27 @@
+/* About.css */
+.about-container {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+  font-family: Arial, sans-serif;
+}
+
+/* Optional enhancements */
+.about-container h1,
+.about-container h2 {
+  color: #333;
+}
+
+.about-container p {
+  color: #555;
+}
+
+.about-container ul {
+  padding-left: 1.5rem;
+  color: #444;
+}
+
+.about-container strong {
+  color: #0077cc;
+}
